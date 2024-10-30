@@ -1,0 +1,14 @@
+C:\Users\aluno.torres\Desktop\tdelp\bin\Debug\net8.0\tdelp.exe
+C:\Users\aluno.torres\Desktop\tdelp\bin\Debug\net8.0\tdelp.deps.json
+C:\Users\aluno.torres\Desktop\tdelp\bin\Debug\net8.0\tdelp.runtimeconfig.json
+C:\Users\aluno.torres\Desktop\tdelp\bin\Debug\net8.0\tdelp.dll
+C:\Users\aluno.torres\Desktop\tdelp\bin\Debug\net8.0\tdelp.pdb
+C:\Users\aluno.torres\Desktop\tdelp\obj\Debug\net8.0\tdelp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.torres\Desktop\tdelp\obj\Debug\net8.0\tdelp.AssemblyInfoInputs.cache
+C:\Users\aluno.torres\Desktop\tdelp\obj\Debug\net8.0\tdelp.AssemblyInfo.cs
+C:\Users\aluno.torres\Desktop\tdelp\obj\Debug\net8.0\tdelp.csproj.CoreCompileInputs.cache
+C:\Users\aluno.torres\Desktop\tdelp\obj\Debug\net8.0\tdelp.dll
+C:\Users\aluno.torres\Desktop\tdelp\obj\Debug\net8.0\refint\tdelp.dll
+C:\Users\aluno.torres\Desktop\tdelp\obj\Debug\net8.0\tdelp.pdb
+C:\Users\aluno.torres\Desktop\tdelp\obj\Debug\net8.0\tdelp.genruntimeconfig.cache
+C:\Users\aluno.torres\Desktop\tdelp\obj\Debug\net8.0\ref\tdelp.dll
